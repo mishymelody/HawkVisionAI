@@ -14,7 +14,12 @@ It is a threat detection algorithm that has enhanced security integrated within 
 * Reduces the action time by immediately alerting the police and security authorities
 
 ## Implementations
-![A cute kitten](01.png) ![A cute kitten](02.png) ![A cute kitten](03.png)
+### Detection
+![Process](01.png) 
+### Website
+![Website](02.png) 
+### Emergency Notifications
+![Notification](03.png)
 
 ## How we built it
 * Azure virtual machine to train Machine Learning models and speed up the process using GPUs
